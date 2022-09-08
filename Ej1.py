@@ -10,7 +10,7 @@
 
 # Comisión : 4 
 # Grupo    : 9
-# Integrantes: Bruno Menna, Guido Montenegro, Nihuel Spinelli, Francisco Urquiza
+# Integrantes:
 # -Legajo 50625, Bruno Menna
 # -Legajo 50622, Guido Montenegro
 # -Legajo 50512, Nihuel Spinelli
