@@ -9,11 +9,12 @@ Se desea crear un programa que simule el funcionamiento basico de un vehiculo.<b
 
 Colocar abajo la comisión y nro de grupo, ademas de los integrantes del grupo ( Nombre y apellido , legajo ).A la hora de hacer el PR colocar nro de grupo y comisión en el titulo del mismo.
 <br />
-Comisión : X <br />
-Grupo    : X <br />
+Comisión : 2 <br />
+Grupo    : 3 <br />
 Integrantes:<br />
--Legajo XXXX,....<br />
--Legajo YYYY,....<br />
+-Legajo 50636, Luciano Perg<br />
+-Legajo YYYY, Franco Procaccini<br />
+-Legajo XXXX, Estefano Sobrero<br />
 .<br />
 .<br />
 .<br />
